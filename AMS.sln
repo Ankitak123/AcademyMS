@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMS", "AMS\AMS.csproj", "{FA1EA121-780E-44E8-A5DE-66CFB8CE60BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{2717836F-9757-4DAB-8106-4B9D05927553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{31689FC0-8322-47E8-9457-03180132DD03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1EA121-780E-44E8-A5DE-66CFB8CE60BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1EA121-780E-44E8-A5DE-66CFB8CE60BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1EA121-780E-44E8-A5DE-66CFB8CE60BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1EA121-780E-44E8-A5DE-66CFB8CE60BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2717836F-9757-4DAB-8106-4B9D05927553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2717836F-9757-4DAB-8106-4B9D05927553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2717836F-9757-4DAB-8106-4B9D05927553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2717836F-9757-4DAB-8106-4B9D05927553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31689FC0-8322-47E8-9457-03180132DD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31689FC0-8322-47E8-9457-03180132DD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31689FC0-8322-47E8-9457-03180132DD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31689FC0-8322-47E8-9457-03180132DD03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ABC5BB6-3EF4-40E8-B171-2ADC722AC8D7}
+	EndGlobalSection
+EndGlobal
